@@ -844,7 +844,6 @@
                     alt="Cropped Faux leather Jacket" class="pc__img">
                 </a>
               </div>
-
               <div class="pc__info position-relative">
                 <h6 class="pc__title"><a href="details.html">Kirby T-Shirt</a></h6>
                 <div class="product-card__price d-flex align-items-center">

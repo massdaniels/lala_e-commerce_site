@@ -1,5 +1,6 @@
 *.log
 .DS_Store
+.github
 .env
 .env.backup
 .env.production
@@ -19,7 +20,7 @@
 /storage/*.key
 /storage/pail
 /vendor
-.env.example
+
 .editorconfig
 Homestead.json
 Homestead.yaml
